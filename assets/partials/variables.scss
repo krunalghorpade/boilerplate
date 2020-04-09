@@ -1,0 +1,62 @@
+@font-face {
+  font-family: Body;
+  src: url(fonts/body.ttf);
+}
+@font-face {
+  font-family: Manrope;
+  src: url(fonts/manropereg.otf);
+}
+@font-face {
+  font-family: Manropebold;
+  src: url(fonts/manropebold.otf);
+}
+
+
+body{
+	background-color: black;
+
+}
+
+
+h1{
+	font-family: Body;
+	color: white;
+}
+
+h2{
+	font-family: Manrope;
+	color: white;
+	font-weight: bold;
+}
+
+h3{
+	font-family: Manropebold;
+	color: white;
+	font-weight: bold;
+}
+p{
+	font-family: Manropebold;
+	color: white;
+	font-weight: bold;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
